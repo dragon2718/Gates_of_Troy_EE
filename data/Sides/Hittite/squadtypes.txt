@@ -1,0 +1,114 @@
+// proxy army defs				
+				
+			
+// All other squads				
+P_LevySpearmen			EasternPeasant
+				
+				
+// General squads				
+P_Peasant			EasternPeasant
+P_Javelinmen			EasternJavelinmen			
+P_ShieldedJavelinmen		EasternJavelinmenSh
+P_Archers			EasternArchers			
+P_ShieldedArchers		EasternShieldedArchers
+P_Bowmen			MassedArchers
+P_MediumInfantry		EasternLightSwordsmen
+P_HeavyInfantry			Sparabara
+P_UntrainedAuxilia		EasternUntrainedAuxilia
+P_Auxilia			EasternAuxilia
+P_AdvancedAuxilia		Thorakitai
+P_LightSwordsmen		EasternLightSwordsmen
+P_EliteAuxilia			Thorakitai
+P_EliteHeavyInfantry		Sparabara
+P_LightCavalry			EasternLightCavalry
+P_ShieldedLightCavalry		EasternLightCavalrySh
+P_LightHorseArchers		SkythianHorseArchers
+P_AdvancedLightHorseArchers	BactrianHorseArchers
+P_MediumCavalry			EasternMediumCavalry
+P_HeavyCavalry			EasternLancers
+P_EliteHeavyCavalry		EasternLancers
+P_Leader			EasternLeader
+				
+				
+// Specific squads				
+P_WesternPeasant		WesternPeasant			
+P_EasternPeasant		EasternPeasant
+P_WesternJavelinmen		WesternJavelinmen			
+P_EasternJavelinmen		EasternJavelinmen			
+P_WesternShieldedJavelinmen	WesternJavelinmenSh
+P_EasternShieldedJavelinmen	EasternJavelinmenSh
+P_WesternArchers		WesternArchers			
+P_EasternArchers		EasternArchers			
+P_WesternShieldedArchers	WesternShieldedArchers			
+P_EasternShieldedArchers	EasternShieldedArchers
+P_EasternBowmen			EasternBowmen			
+P_Sparabara			Sparabara			
+P_Immortals			Immortals			
+P_WesternUntrainedAuxilia	WesternUntrainedAuxilia
+P_EasternUntrainedAuxilia	EasternUntrainedAuxilia			
+P_WesternAuxilia		WesternAuxilia			
+P_EasternAuxilia		EasternAuxilia			
+P_Peltastes			Peltastes			
+P_EasternLightSwordsmen		EasternLightSwordsmen
+P_HeavyPeltastes		HeavyPeltasts			
+P_EarlyIrregHoplite		EarlyHoplites			
+P_LeatherTunicHoplite		LeatherTunicHoplite			
+P_HeavyBronzeHoplite		HeavyBronzeHoplite			
+P_SpartanHoplite		SpartanHoplite			
+P_EarlyPhalangite		EarlyPhalangite			
+P_LaterPhalangite		LaterPhalangite			
+P_WesternLightCavalry		WesternLightCavalry
+P_EasternLightCavalry		EasternLightCavalry
+P_WesternShieldedLightCavalry	WesternLightCavalrySh
+P_EasternShieldedLightCavalry	EasternLightCavalrySh
+P_SkythianHorseArchers		SkythianHorseArchers
+P_BactrianHorseArchers		BactrianHorseArchers
+P_WesternCitizenCavalry		WesternCitizenCavalry
+P_EasternMediumCavalry		EasternMediumCavalry
+P_WesternHeavyCavalry		WesternHeavyCavalry
+P_EasternLancers		EasternLancers
+P_Companions			Companions
+P_EasternClibanari		EasternClibanari
+P_EasternCataphracts		EasternCataphracts
+P_Triari			Triari
+P_Hastati			Hastati
+P_TribalWarrior			TribalWarrior
+P_TribalVeteran			TribalVeteran
+P_TribalLightCavalry		TribalLightCavalry
+P_TribalNoble			TribalNoble
+P_WesternLeader			WesternLeader
+P_EasternLeader			EasternLeader				
+				
+P_MassedArchers			MassedArchers
+P_Thorakitai			Thorakitai
+P_AchaianSpearmen		AchaianSpearmen
+P_DardanianSpearmen		DardanianSpearmen
+P_PelegasianSpearmen		PelegasianSpearmen
+P_Myrmidons			Myrmidons
+P_AchaianNobles			AchaianNobles
+P_DardanianNobles		DardanianNobles
+P_Levy				Levy
+P_InfantryHero			InfantryHero2
+Leonidas			Leonidas
+P_AchillesSonOfPeleus		AchillesSonOfPeleus
+P_DiomedesSonOfTydeus		DiomedesSonOfTydeus
+P_AiasSonOfTelamon		AiasSonOfTelamon
+P_TeukrosSonOfTelamon		TeukrosSonOfTelamon
+P_OdysseusSonOfLaertes		OdysseusSonOfLaertes
+P_IdomeneusSonOfDeukalion	IdomeneusSonOfDeukalion
+P_AntilochosSonOfNestor		AntilochosSonOfNestor
+P_EurypylosSonOfEuaimon		EurypylosSonOfEuaimon
+P_AiasSonOfOileus		AiasSonOfOileus
+P_HektorSonOfPriamos		HektorSonOfPriamos
+P_PolydamasSonOfPanthous	PolydamasSonOfPanthous
+P_SarpedonSonOfZeus		SarpedonSonOfZeus
+P_AineiasSonOfAnchises		AineiasSonOfAnchises
+P_DolonSonOfEumedes		DolonSonOfEumedes
+P_MercenaryHoplite		MercenaryHoplite
+P_PelegasianNobles		PelegasianNobles
+P_ThebanHoplite			ThebanHoplite
+P_ThespianHoplite		ThespianHoplite
+P_Demophilus			Demophilus
+P_Aristagoras			Aristagoras					
+P_Patroclus			Patroclus
+P_Paris				Paris

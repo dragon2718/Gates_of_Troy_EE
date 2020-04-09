@@ -1,0 +1,935 @@
+// Anim,	file name,			rotations		frames		cell width		cell height			anim speed	height 		Frame arrow
+//																				adjuster	released
+SquadName 	Sparabara															
+WALK		EastMI-J-B-SH-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	EastMI-J-B-SH-run.pcx		8			20		108			108				0		50		
+ROUTING 	EastMI-J-B-SH-route.pcx		8			16		108			108				0		50		
+WAIT		EastMI-J-B-SH-stnd.pcx		8			1		108			108				0		50		
+WAIT1		EastMI-J-B-SH-wait1.pcx		8			10		108			108				1		50		
+WAIT2		EastMI-J-B-SH-wait2.pcx		8			10		108			108				1		50		
+DYING1		EastMI-J-B-SH-Die1.pcx		8			20		108			108				0		50		
+DYING2		EastMI-J-B-SH-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		EastMI-J-B-SH-Fit1.pcx		8			20		108			108				0		50		
+SHOOT1		EastMI-J-B-SH-Shot.pcx		8			20		108			108				1		50		10
+																							
+SquadName 	HeavyBronzeHoplite																					
+WALK		BrnzHop-wlk.pcx			8			20		108			108				0		50		
+CHARGING 	BrnzHop-run.pcx			8			20		108			108				0		50		
+ROUTING 	BrnzHop-route.pcx		8			16		108			108				0		50		
+WAIT		BrnzHop-Stnd.pcx		8			1		108			108				0		50		
+WAIT1		BrnzHop-wait1.pcx		8			10		108			108				1		50		
+WAIT2		BrnzHop-wait2.pcx		8			10		108			108				1		50		
+DYING1		BrnzHop-Die1.pcx		8			20		108			108				0		50		
+DYING2		BrnzHop-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		BrnzHop-Fit1.pcx		8			20		108			108				0		50		
+FIGHT2		BrnzHop-Fit2.pcx		8			20		108			108				0		50		
+																							
+SquadName 	Companions																				
+WALK		Companion-wlk.pcx		8			20		102			102				0		50		
+CHARGING 	Companion-run.pcx		8			15		102			102				0		50		
+ROUTING 	Companion-run.pcx		8			15		102			102				0		50		
+WAIT		Companion-stnd.pcx		8			1		102			102				0		50		
+WAIT1		Companion-wait1.pcx		8			10		102			102				1		50		
+WAIT2		Companion-wait2.pcx		8			10		102			102				1		50		
+DYING1		Companion-die1.pcx		8			20		102			102				0		50		
+DYING2		Companion-die2.pcx		8			20		102			102				0		50		
+FIGHT1		Companion-fit1.pcx		8			20		102			102				0		50		
+																									
+SquadName 	EarlyPhalangite																				
+WALK		EarlyPhal-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	EarlyPhal-run.pcx		8			20		108			108				0		50		
+ROUTING 	EarlyPhal-route.pcx		8			16		108			108				0		50		
+WAIT		EarlyPhal-stnd.pcx		8			1		108			108				0		50		
+WAIT1		EarlyPhal-wait1.pcx		8			10		108			108				1		50		
+WAIT2		EarlyPhal-wait2.pcx		8			10		108			108				1		50		
+DYING1		EarlyPhal-die1.pcx		8			20		108			108				0		50		
+DYING2		EarlyPhal-die2.pcx		8			20		108			108				0		50		
+FIGHT1		EarlyPhal-fit1.pcx		8			20		108			108				0		50		
+																								
+SquadName 	Immortals																					
+WALK		EastHI-J-B-SH-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	EastHI-J-B-SH-run.pcx		8			20		108			108				0		50		
+ROUTING 	EastHI-J-B-SH-route.pcx		8			16		108			108				0		50		
+WAIT		EastHI-J-B-SH-stnd.pcx		8			1		108			108				0		50		
+WAIT1		EastHI-J-B-SH-wait1.pcx		8			10		108			108				1		50		
+WAIT2		EastHI-J-B-SH-wait2.pcx		8			10		108			108				1		50		
+DYING1		EastHI-J-B-SH-die1.pcx		8			20		108			108				0		50		
+DYING2		EastHI-J-B-SH-die2.pcx		8			20		108			108				0		50		
+FIGHT1		EastHI-J-B-SH-fit1.pcx		8			20		108			108				0		50		
+SHOOT1		EastHI-J-B-SH-shot.pcx		8			20		108			108				1		50		11
+																							
+SquadName 	EasternBowmen																			
+WALK		East-LMI-B-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	East-LMI-B-run.pcx		8			20		108			108				0		50		
+ROUTING 	East-LMI-B-route.pcx		8			16		108			108				0		50		
+WAIT		East-LMI-B-stnd.pcx		8			1		108			108				0		50		
+WAIT1		East-LMI-B-wait1.pcx		8			10		108			108				1		50		
+WAIT2		East-LMI-B-wait2.pcx		8			10		108			108				1		50		
+DYING1		East-LMI-B-Die1.pcx		8			20		108			108				0		50		
+DYING2		East-LMI-B-die2.pcx		8			20		108			108				0		50		
+FIGHT1		East-LMI-B-Fit1.pcx		8			20		108			108				0		50		
+SHOOT1		East-LMI-B-shot.pcx		8			20		108			108				1		50		14
+																								
+SquadName 	EasternAuxilia																				
+WALK		East-LMI-J-sh-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	East-LMI-J-sh-run.pcx		8			20		108			108				0		50		
+ROUTING 	East-LMI-J-sh-route.pcx		8			16		108			108				0		50		
+WAIT		East-LMI-J-sh-stnd.pcx		8			1		108			108				0		50		
+WAIT1		East-LMI-J-sh-wait1.pcx		8			10		108			108				1		50		
+WAIT2		East-LMI-J-sh-wait2.pcx		8			10		108			108				1		50		
+DYING1		East-LMI-J-sh-Die1.pcx		8			20		108			108				0		50		
+DYING2		East-LMI-J-sh-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		East-LMI-J-sh-Fit1.pcx		8			20		108			108				0		50		
+SHOOT1		East-LMI-J-sh-shot.pcx		8			20		108			108				1		50		5
+																										
+SquadName 	HeavyPeltasts																				
+WALK		HeavyPelt-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	HeavyPelt-run.pcx		8			20		108			108				0		50		
+ROUTING 	HeavyPelt-route.pcx		8			16		108			108				0		50		
+WAIT		HeavyPelt-stnd.pcx		8			1		108			108				0		50		
+WAIT1		HeavyPelt-wait1.pcx		8			10		108			108				1		50		
+WAIT2		HeavyPelt-wait2.pcx		8			10		108			108				1		50		
+DYING1		HeavyPelt-Die1.pcx		8			20		108			108				0		50		
+DYING2		HeavyPelt-die2.pcx		8			20		108			108				0		50		
+FIGHT1		HeavyPelt-Fit1.pcx		8			20		108			108				0		50		
+																							
+SquadName 	EarlyHoplites																				
+WALK		IrregHop-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	IrregHop-run.pcx		8			20		108			108				0		50		
+ROUTING 	IrregHop-route.pcx		8			16		108			108				0		50		
+WAIT		IrregHop-stnd.pcx		8			1		108			108				0		50		
+WAIT1		IrregHop-wait1.pcx		8			10		108			108				1		50		
+WAIT2		IrregHop-wait2.pcx		8			10		108			108				1		50		
+DYING1		IrregHop-Die1.pcx		8			20		108			108				0		50		
+DYING2		IrregHop-die2.pcx		8			20		108			108				0		50		
+FIGHT1		IrregHop-Fit1.pcx		8			20		108			108				0		50		
+																								
+SquadName	WesternJavelinmenSh																				
+WALK		WestLI-J-SH-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	WestLI-J-SH-run.pcx		8			20		108			108				0		50		
+ROUTING 	WestLI-J-SH-route.pcx		8			16		108			108				0		50		
+WAIT		WestLI-J-SH-stnd.pcx		8			1		108			108				0		50		
+WAIT1		WestLI-J-SH-wait1.pcx		8			10		108			108				1		50		
+WAIT2		WestLI-J-SH-wait2.pcx		8			10		108			108				1		50		
+DYING1		WestLI-J-SH-Die1.pcx		8			20		108			108				0		50		
+DYING2		WestLI-J-SH-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		WestLI-J-SH-Fit1.pcx		8			20		108			108				0		50		
+SHOOT1		WestLI-J-SH-shot.pcx		8			20		108			108				1		50		7
+																								
+SquadName	WesternAuxilia																					
+WALK		West-LMI-J-sh-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	West-LMI-J-sh-run.pcx		8			20		108			108				0		50		
+ROUTING 	West-LMI-J-sh-route.pcx		8			16		108			108				0		50		
+WAIT		West-LMI-J-sh-stnd.pcx		8			1		108			108				0		50		
+WAIT1		West-LMI-J-sh-wait1.pcx		8			10		108			108				1		50		
+WAIT2		West-LMI-J-sh-wait2.pcx		8			10		108			108				1		50		
+DYING1		West-LMI-J-sh-Die1.pcx		8			20		108			108				0		50		
+DYING2		West-LMI-J-sh-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		West-LMI-J-sh-Fit1.pcx		8			20		108			108				0		50		
+SHOOT1		West-LMI-J-sh-shot.pcx		8			20		108			108				1		50		7
+																								
+SquadName 	WesternPeasant																					
+WALK		WestPeas-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	WestPeas-run.pcx		8			20		108			108				0		50		
+ROUTING 	WestPeas-route.pcx		8			16		108			108				0		50		
+WAIT		WestPeas-stnd.pcx		8			1		108			108				0		50		
+WAIT1		WestPeas-wait1.pcx		8			10		108			108				1		50		
+WAIT2		WestPeas-wait2.pcx		8			10		108			108				1		50		
+DYING1		WestPeas-Die1.pcx		8			20		108			108				0		50		
+DYING2		WestPeas-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		WestPeas-Fit1.pcx		8			20		108			108				0		50		
+																									
+SquadName	WesternJavelinmen																				
+WALK		WestLI-J-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	WestLI-J-run.pcx		8			20		108			108				0		50		
+ROUTING 	WestLI-J-route.pcx		8			16		108			108				0		50		
+WAIT		WestLI-J-stnd.pcx		8			1		108			108				0		50		
+WAIT1		WestLI-J-wait1.pcx		8			10		108			108				1		50		
+WAIT2		WestLI-J-wait2.pcx		8			10		108			108				1		50		
+DYING1		WestLI-J-Die1.pcx		8			20		108			108				0		50		
+DYING2		WestLI-J-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		WestLI-J-Fit1.pcx		8			20		108			108				0		50		
+SHOOT1		WestLI-J-shot.pcx		8			20		108			108				1		50		7
+																							
+SquadName 	WesternArchers																			
+WALK		WestLI-B-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	WestLI-B-run.pcx		8			20		108			108				0		50		
+ROUTING 	WestLI-B-route.pcx		8			16		108			108				0		50		
+WAIT		WestLI-B-stnd.pcx		8			1		108			108				0		50		
+WAIT1		WestLI-B-wait1.pcx		8			10		108			108				1		50		
+WAIT2		WestLI-B-wait2.pcx		8			10		108			108				1		50		
+DYING1		WestLI-B-Die1.pcx		8			20		108			108				0		50		
+DYING2		WestLI-B-die2.pcx		8			20		108			108				0		50		
+FIGHT1		WestLI-B-Fit1.pcx		8			20		108			108				0		50		
+SHOOT1		WestLI-B-shot.pcx		8			20		108			108				1		50		13
+																									
+SquadName 	EasternArchers																					
+WALK		East-LI-B-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	East-LI-B-run.pcx		8			20		108			108				0		50		
+ROUTING 	East-LI-B-route.pcx		8			16		108			108				0		50		
+WAIT		East-LI-B-stnd.pcx		8			1		108			108				0		50		
+WAIT1		East-LI-B-wait1.pcx		8			10		108			108				1		50		
+WAIT2		East-LI-B-wait1.pcx		8			10		108			108				1		50		
+DYING1		East-LI-B-Die1.pcx		8			20		108			108				0		50		
+DYING2		East-LI-B-die2.pcx		8			20		108			108				0		50		
+FIGHT1		East-LI-B-Fit1.pcx		8			20		108			108				0		50		
+SHOOT1		East-LI-B-shot.pcx		8			20		108			108				1		50		14
+																							
+SquadName 	WesternShieldedArchers																		
+WALK		WestLI-B-sh-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	WestLI-B-sh-run.pcx		8			20		108			108				0		50		
+ROUTING 	WestLI-B-sh-route.pcx		8			16		108			108				0		50		
+WAIT		WestLI-B-sh-stnd.pcx		8			1		108			108				0		50		
+WAIT1		WestLI-B-sh-wait1.pcx		8			10		108			108				1		50		
+WAIT2		WestLI-B-sh-wait2.pcx		8			10		108			108				1		50		
+DYING1		WestLI-B-sh-Die1.pcx		8			20		108			108				0		50		
+DYING2		WestLI-B-sh-die2.pcx		8			20		108			108				0		50		
+FIGHT1		WestLI-B-sh-Fit1.pcx		8			20		108			108				0		50		
+SHOOT1		WestLI-B-sh-shot.pcx		8			20		108			108				1		50		13
+																								
+SquadName 	EasternUntrainedAuxilia																		
+WALK		EastLMI-LTS-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	EastLMI-LTS-run.pcx		8			20		108			108				0		50		
+ROUTING 	EastLMI-LTS-route.pcx		8			16		108			108				0		50		
+WAIT		EastLMI-LTS-stnd.pcx		8			1		108			108				0		50		
+WAIT1		EastLMI-LTS-wait1.pcx		8			10		108			108				1		50		
+WAIT2		EastLMI-LTS-wait2.pcx		8			10		108			108				1		50		
+DYING1		EastLMI-LTS-Die1.pcx		8			20		108			108				0		50		
+DYING2		EastLMI-LTS-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		EastLMI-LTS-Fit1.pcx		8			20		108			108				0		50		
+																							
+SquadName 	Peltastes																					
+WALK		Peltastes-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	Peltastes-run.pcx		8			20		108			108				0		50		
+ROUTING 	Peltastes-route.pcx		8			16		108			108				0		50		
+WAIT		Peltastes-stnd.pcx		8			1		108			108				0		50		
+WAIT1		Peltastes-wait1.pcx		8			10		108			108				1		50		
+WAIT2		Peltastes-wait2.pcx		8			10		108			108				1		50		
+DYING1		Peltastes-Die1.pcx		8			20		108			108				0		50		
+DYING2		Peltastes-die2.pcx		8			20		108			108				0		50		
+FIGHT1		Peltastes-Fit1.pcx		8			20		108			108				0		50		
+																								
+SquadName 	LeatherTunicHoplite																						
+WALK		LeathHop-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	LeathHop-run.pcx		8			20		108			108				0		50		
+ROUTING 	LeathHop-route.pcx		8			16		108			108				0		50		
+WAIT		LeathHop-stnd.pcx		8			1		108			108				0		50		
+WAIT1		LeathHop-wait1.pcx		8			10		108			108				1		50		
+WAIT2		LeathHop-wait2.pcx		8			10		108			108				1		50		
+DYING1		LeathHop-Die1.pcx		8			20		108			108				0		50		
+DYING2		LeathHop-die2.pcx		8			20		108			108				0		50		
+FIGHT1		LeathHop-Fit1.pcx		8			20		108			108				0		50		
+																									
+SquadName 	SpartanHoplite																				
+WALK		SpartHop-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	SpartHop-run.pcx		8			20		108			108				0		50		
+ROUTING 	SpartHop-route.pcx		8			16		108			108				0		50		
+WAIT		SpartHop-Stnd.pcx		8			1		108			108				0		50		
+WAIT1		SpartHop-wait1.pcx		8			10		108			108				1		50		
+WAIT2		SpartHop-wait2.pcx		8			10		108			108				1		50		
+DYING1		SpartHop-Die1.pcx		8			20		108			108				0		50		
+DYING2		SpartHop-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		SpartHop-Fit1.pcx		8			20		108			108				0		50		
+FIGHT2		SpartHop-Fit2.pcx		8			20		108			108				0		50		
+																								
+SquadName 	LaterPhalangite																				
+WALK		LatePhal-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	LatePhal-run.pcx		8			20		108			108				0		50		
+ROUTING 	LatePhal-route.pcx		8			16		108			108				0		50		
+WAIT		LatePhal-stnd.pcx		8			1		108			108				0		50		
+WAIT1		LatePhal-wait1.pcx		8			10		108			108				1		50		
+WAIT2		LatePhal-wait2.pcx		8			10		108			108				1		50		
+DYING1		LatePhal-die1.pcx		8			20		108			108				0		50		
+DYING2		LatePhal-die2.pcx		8			20		108			108				0		50		
+FIGHT1		LatePhal-fit1.pcx		8			20		108			108				0		50		
+
+SquadName 	WesternUntrainedAuxilia	
+WALK		West-LMI-LTS-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	West-LMI-LTS-run.pcx		8			20		108			108				0		50		
+ROUTING 	West-LMI-LTS-route.pcx		8			16		108			108				0		50		
+WAIT		West-LMI-LTS-stnd.pcx		8			1		108			108				0		50		
+WAIT1		West-LMI-LTS-wait1.pcx		8			10		108			108				1		50		
+WAIT2		West-LMI-LTS-wait2.pcx		8			10		108			108				1		50		
+DYING1		West-LMI-LTS-Die1.pcx		8			20		108			108				0		50		
+DYING2		West-LMI-LTS-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		West-LMI-LTS-Fit1.pcx		8			20		108			108				0		50		
+FIGHT2		West-LMI-LTS-Fit2.pcx		8			20		108			108				0		50		
+
+SquadName 	EasternLightSwordsmen	
+WALK		East-LMI-SW-SH-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	East-LMI-SW-SH-run.pcx		8			20		108			108				0		50		
+ROUTING 	East-LMI-SW-SH-route.pcx	8			16		108			108				0		50		
+WAIT		East-LMI-SW-SH-stnd.pcx		8			1		108			108				0		50		
+WAIT1		East-LMI-SW-SH-wait1.pcx	8			10		108			108				1		50		
+WAIT2		East-LMI-SW-SH-wait2.pcx	8			10		108			108				1		50		
+DYING1		East-LMI-SW-SH-Die1.pcx		8			20		108			108				0		50		
+DYING2		East-LMI-SW-SH-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		East-LMI-SW-SH-Fit1.pcx		8			20		108			108				0		50		
+FIGHT2		East-LMI-SW-SH-Fit2.pcx		8			20		108			108				0		50		
+																										
+SquadName 	EasternCataphracts	
+WALK		East-SHC-L-SH-wlk.pcx		8			20		102			102				0		50		
+CHARGING 	East-SHC-L-SH-run.pcx		8			15		102			102				0		50		
+ROUTING 	East-SHC-L-SH-run.pcx		8			15		102			102				0		50		
+WAIT		East-SHC-L-SH-stnd.pcx		8			1		102			102				0		50		
+WAIT1		East-SHC-L-SH-wait1.pcx		8			10		102			102				1		50		
+WAIT2		East-SHC-L-SH-wait2.pcx		8			10		102			102				1		50		
+DYING1		East-SHC-L-SH-Die2.pcx		8			20		102			102				0		50		
+FIGHT1		East-SHC-L-SH-Fit1.pcx		8			20		102			102				0		50		
+																										
+SquadName 	WesternLightCavalry	
+WALK		West-LC-J-wlk.pcx		8			20		102			102				0		50		
+CHARGING 	West-LC-J-run.pcx		8			15		102			102				0		50		
+ROUTING 	West-LC-J-run.pcx		8			15		102			102				0		50		
+WAIT		West-LC-J-stnd.pcx		8			1		102			102				0		50		
+WAIT1		West-LC-J-wait1.pcx		8			10		102			102				1		50		
+WAIT2		West-LC-J-wait2.pcx		8			10		102			102				1		50		
+DYING1		West-LC-J-die1.pcx		8			20		102			102				0		50		
+DYING2		West-LC-J-die2.pcx		8			20		102			102				0		50		
+FIGHT1		West-LC-J-fit1.pcx		8			20		102			102				0		50		
+																										
+SquadName 	EasternLancers																			
+WALK		East-HC-L-SH-wlk.pcx		8			20		102			102				0		50		
+CHARGING 	East-HC-L-SH-run.pcx		8			15		102			102				0		50		
+ROUTING 	East-HC-L-SH-run.pcx		8			15		102			102				0		50		
+WAIT		East-HC-L-SH-stnd.pcx		8			1		102			102				0		50		
+WAIT1		East-HC-L-SH-wait1.pcx		8			10		102			102				1		50		
+WAIT2		East-HC-L-SH-wait2.pcx		8			10		102			102				1		50		
+DYING1		East-HC-L-SH-die1.pcx		8			20		102			102				0		50		
+DYING2		East-HC-L-SH-die2.pcx		8			20		102			102				0		50		
+FIGHT1		East-HC-L-SH-fit1.pcx		8			20		102			102				0		50		
+																										
+SquadName 	EasternMediumCavalry																		
+WALK		East-MC-Jls-B-wlk.pcx		8			20		102			102				0		50		
+CHARGING 	East-MC-Jls-B-run.pcx		8			15		102			102				0		50		
+ROUTING 	East-MC-Jls-B-run.pcx		8			15		102			102				0		50		
+WAIT		East-MC-Jls-B-stnd.pcx		8			1		102			102				0		50		
+WAIT1		East-MC-Jls-B-wait1.pcx		8			10		102			102				1		50		
+WAIT2		East-MC-Jls-B-wait2.pcx		8			10		102			102				1		50		
+DYING1		East-MC-Jls-B-die1.pcx		8			20		102			102				0		50		
+DYING2		East-MC-Jls-B-die2.pcx		8			20		102			102				0		50		
+FIGHT1		East-MC-Jls-B-fit1.pcx		8			20		102			102				0		50		
+SHOOT1		East-MC-Jls-B-shot.pcx		8			20		102			102				0		50		10
+				
+SquadName 	SkythianHorseArchers	
+WALK		Skythian-wlk.pcx		8			20		102			102				0		50		
+CHARGING 	Skythian-run.pcx		8			15		102			102				0		50		
+ROUTING 	Skythian-run.pcx		8			15		102			102				0		50		
+WAIT		Skythian-stnd.pcx		8			1		102			102				0		50		
+WAIT1		Skythian-wait1.pcx		8			10		102			102				1		50		
+WAIT2		Skythian-wait2.pcx		8			10		102			102				1		50		
+DYING1		Skythian-die1.pcx		8			20		102			102				0		50		
+DYING2		Skythian-die2.pcx		8			20		102			102				0		50		
+FIGHT1		Skythian-fit1.pcx		8			20		102			102				0		50		
+SHOOT1		Skythian-shot.pcx		8			20		102			102				0		50		10
+
+SquadName 	WesternHeavyCavalry	
+WALK		West-HC-J-SH-wlk.pcx		8			20		102			102				0		50		
+CHARGING 	West-HC-J-SH-run.pcx		8			15		102			102				0		50		
+ROUTING 	West-HC-J-SH-run.pcx		8			15		102			102				0		50		
+WAIT		West-HC-J-SH-stnd.pcx		8			1		102			102				0		50		
+WAIT1		West-HC-J-SH-wait1.pcx		8			10		102			102				1		50		
+WAIT2		West-HC-J-SH-wait2.pcx		8			10		102			102				1		50		
+DYING1		West-HC-J-SH-die1.pcx		8			20		102			102				0		50		
+DYING2		West-HC-J-SH-die2.pcx		8			20		102			102				0		50		
+FIGHT1		West-HC-J-SH-fit1.pcx		8			20		102			102				0		50		
+																										
+SquadName 	WesternLightCavalrySh	
+WALK		West-LC-J-SH-wlk.pcx		8			20		102			102				0		50		
+CHARGING 	West-LC-J-SH-run.pcx		8			15		102			102				0		50		
+ROUTING 	West-LC-J-SH-run.pcx		8			15		102			102				0		50		
+WAIT		West-LC-J-SH-stnd.pcx		8			1		102			102				0		50		
+WAIT1		West-LC-J-SH-wait1.pcx		8			10		102			102				1		50		
+WAIT2		West-LC-J-SH-wait2.pcx		8			10		102			102				1		50		
+DYING1		West-LC-J-SH-die1.pcx		8			20		102			102				0		50		
+DYING2		West-LC-J-SH-die2.pcx		8			20		102			102				0		50		
+FIGHT1		West-LC-J-SH-fit1.pcx		8			20		102			102				0		50		
+																										
+SquadName 	WesternCitizenCavalry	
+WALK		CitizenCav-wlk.pcx		8			20		102			102				0		50		
+CHARGING 	CitizenCav-run.pcx		8			15		102			102				0		50		
+ROUTING 	CitizenCav-run.pcx		8			15		102			102				0		50		
+WAIT		CitizenCav-stnd.pcx		8			1		102			102				0		50		
+WAIT1		CitizenCav-wait1.pcx		8			10		102			102				1		50		
+WAIT2		CitizenCav-wait2.pcx		8			10		102			102				1		50		
+DYING1		CitizenCav-die1.pcx		8			20		102			102				0		50		
+DYING2		CitizenCav-die2.pcx		8			20		102			102				0		50		
+FIGHT1		CitizenCav-fit1.pcx		8			20		102			102				0		50		
+																										
+SquadName 	EasternClibanari	
+WALK		Clibanari-wlk.pcx		8			20		102			102				0		50		
+CHARGING 	Clibanari-run.pcx		8			15		102			102				0		50		
+ROUTING 	Clibanari-run.pcx		8			15		102			102				0		50		
+WAIT		Clibanari-stnd.pcx		8			1		102			102				0		50		
+WAIT1		Clibanari-wait1.pcx		8			10		102			102				1		50		
+WAIT2		Clibanari-wait2.pcx		8			10		102			102				1		50		
+DYING1		Clibanari-die1.pcx		8			20		102			102				0		50		
+DYING2		Clibanari-die2.pcx		8			20		102			102				0		50		
+FIGHT1		Clibanari-fit1.pcx		8			20		102			102				0		50	
+
+SquadName 	EasternLightCavalry	
+WALK		East-LC-J-wlk.pcx		8			20		102			102				0		50		
+CHARGING 	East-LC-J-run.pcx		8			15		102			102				0		50		
+ROUTING 	East-LC-J-run.pcx		8			15		102			102				0		50		
+WAIT		East-LC-J-stnd.pcx		8			1		102			102				0		50		
+WAIT1		East-LC-J-wait1.pcx		8			10		102			102				1		50		
+WAIT2		East-LC-J-wait2.pcx		8			10		102			102				1		50		
+DYING1		East-LC-J-die1.pcx		8			20		102			102				0		50		
+DYING2		East-LC-J-die2.pcx		8			20		102			102				0		50		
+FIGHT1		East-LC-J-fit1.pcx		8			20		102			102				0		50	
+
+SquadName 	EasternLightCavalrySh	
+WALK		East-LC-J-SH-wlk.pcx		8			20		102			102				0		50		
+CHARGING 	East-LC-J-SH-run.pcx		8			15		102			102				0		50		
+ROUTING 	East-LC-J-SH-run.pcx		8			15		102			102				0		50		
+WAIT		East-LC-J-SH-stnd.pcx		8			1		102			102				0		50		
+WAIT1		East-LC-J-SH-wait1.pcx		8			10		102			102				1		50		
+WAIT2		East-LC-J-SH-wait2.pcx		8			10		102			102				1		50		
+DYING1		East-LC-J-SH-die1.pcx		8			20		102			102				0		50		
+DYING2		East-LC-J-SH-die2.pcx		8			20		102			102				0		50		
+FIGHT1		East-LC-J-SH-fit1.pcx		8			20		102			102				0		50	
+
+SquadName 	BactrianHorseArchers	
+WALK		Bactrian-wlk.pcx		8			20		102			102				0		50		
+CHARGING 	Bactrian-run.pcx		8			15		102			102				0		50		
+ROUTING 	Bactrian-run.pcx		8			15		102			102				0		50		
+WAIT		Bactrian-stnd.pcx		8			1		102			102				0		50		
+WAIT1		Bactrian-wait1.pcx		8			10		102			102				1		50		
+WAIT2		Bactrian-wait2.pcx		8			10		102			102				1		50		
+DYING1		Bactrian-die1.pcx		8			20		102			102				0		50		
+DYING2		Bactrian-die2.pcx		8			20		102			102				0		50		
+FIGHT1		Bactrian-fit1.pcx		8			20		102			102				0		50		
+SHOOT1		Bactrian-shot.pcx		8			20		102			102				0		50		10
+
+SquadName 	EasternPeasant	
+WALK		EastPeas-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	EastPeas-run.pcx		8			20		108			108				0		50		
+ROUTING 	EastPeas-route.pcx		8			16		108			108				0		50		
+WAIT		EastPeas-stnd.pcx		8			1		108			108				0		50		
+WAIT1		EastPeas-wait1.pcx		8			10		108			108				1		50		
+WAIT2		EastPeas-wait2.pcx		8			10		108			108				1		50		
+DYING1		EastPeas-Die1.pcx		8			20		108			108				0		50		
+DYING2		EastPeas-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		EastPeas-Fit1.pcx		8			20		108			108				0		50		
+FIGHT2		EastPeas-Fit2.pcx		8			20		108			108				0		50		
+																										
+SquadName 	EasternJavelinmen	
+WALK		East-LI-J-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	East-LI-J-run.pcx		8			20		108			108				0		50		
+ROUTING 	East-LI-J-route.pcx		8			16		108			108				0		50		
+WAIT		East-LI-J-stnd.pcx		8			1		108			108				0		50		
+WAIT1		East-LI-J-wait1.pcx		8			10		108			108				1		50		
+WAIT2		East-LI-J-wait2.pcx		8			10		108			108				1		50		
+DYING1		East-LI-J-Die1.pcx		8			20		108			108				0		50		
+DYING2		East-LI-J-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		East-LI-J-Fit1.pcx		8			20		108			108				0		50		
+SHOOT1		East-LI-J-Shot.pcx		8			20		108			108				1		50		10
+																																																			
+SquadName 	EasternJavelinmenSh	
+WALK		East-LI-J-SH-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	East-LI-J-SH-run.pcx		8			20		108			108				0		50		
+ROUTING 	East-LI-J-SH-route.pcx		8			16		108			108				0		50		
+WAIT		East-LI-J-SH-stnd.pcx		8			1		108			108				0		50		
+WAIT1		East-LI-J-SH-wait1.pcx		8			10		108			108				1		50		
+WAIT2		East-LI-J-SH-wait2.pcx		8			10		108			108				1		50		
+DYING1		East-LI-J-SH-Die1.pcx		8			20		108			108				0		50		
+DYING2		East-LI-J-SH-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		East-LI-J-SH-Fit1.pcx		8			20		108			108				0		50		
+SHOOT1		East-LI-J-SH-Shot.pcx		8			20		108			108				1		50		10
+																																																			
+SquadName 	EasternShieldedArchers	
+WALK		East-LI-B-SH-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	East-LI-B-SH-run.pcx		8			20		108			108				0		50		
+ROUTING 	East-LI-B-SH-route.pcx		8			16		108			108				0		50		
+WAIT		East-LI-B-SH-stnd.pcx		8			1		108			108				0		50		
+WAIT1		East-LI-B-SH-wait1.pcx		8			10		108			108				1		50		
+WAIT2		East-LI-B-SH-wait2.pcx		8			10		108			108				1		50		
+DYING1		East-LI-B-SH-Die1.pcx		8			20		108			108				0		50		
+DYING2		East-LI-B-SH-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		East-LI-B-SH-Fit1.pcx		8			20		108			108				0		50		
+SHOOT1		East-LI-B-SH-Shot.pcx		8			20		108			108				1		50		10
+
+SquadName	TribalWarrior																				
+WALK		TribalWarrior-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	TribalWarrior-run.pcx		8			20		108			108				0		50		
+ROUTING 	TribalWarrior-route.pcx		8			16		108			108				0		50		
+WAIT		TribalWarrior-stnd.pcx		8			1		108			108				0		50		
+WAIT1		TribalWarrior-wait1.pcx		8			10		108			108				1		50		
+WAIT2		TribalWarrior-wait2.pcx		8			10		108			108				1		50		
+DYING1		TribalWarrior-Die1.pcx		8			20		108			108				0		50		
+DYING2		TribalWarrior-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		TribalWarrior-Fit1.pcx		8			20		108			108				0		50		
+
+SquadName	TribalVeteran																				
+WALK		TribalVeteran-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	TribalVeteran-run.pcx		8			20		108			108				0		50		
+ROUTING 	TribalVeteran-route.pcx		8			16		108			108				0		50		
+WAIT		TribalVeteran-stnd.pcx		8			1		108			108				0		50		
+WAIT1		TribalVeteran-wait1.pcx		8			10		108			108				1		50		
+WAIT2		TribalVeteran-wait2.pcx		8			10		108			108				1		50		
+DYING1		TribalVeteran-Die1.pcx		8			20		108			108				0		50		
+DYING2		TribalVeteran-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		TribalVeteran-Fit1.pcx		8			20		108			108				0		50																								
+
+SquadName	TribalLightCavalry																				
+WALK		TribalLightCavalry-wlk.pcx	8			20		102			102				0		50		
+CHARGING 	TribalLightCavalry-run.pcx	8			15		102			102				0		50		
+ROUTING 	TribalLightCavalry-run.pcx	8			15		102			102				0		50		
+WAIT		TribalLightCavalry-stnd.pcx	8			1		102			102				0		50		
+WAIT1		TribalLightCavalry-wait1.pcx	8			10		102			102				1		50		
+WAIT2		TribalLightCavalry-wait2.pcx	8			10		102			102				1		50		
+DYING1		TribalLightCavalry-Die1.pcx	8			20		102			102				0		50		
+DYING2		TribalLightCavalry-Die2.pcx	8			20		102			102				0		50		
+FIGHT1		TribalLightCavalry-Fit1.pcx	8			20		102			102				0		50		
+
+SquadName	TribalNoble																				
+WALK		TribalNoble-wlk.pcx		8			20		102			102				0		50		
+CHARGING 	TribalNoble-run.pcx		8			15		102			102				0		50		
+ROUTING 	TribalNoble-run.pcx		8			15		102			102				0		50		
+WAIT		TribalNoble-stnd.pcx		8			1		102			102				0		50		
+WAIT1		TribalNoble-wait1.pcx		8			10		102			102				1		50		
+WAIT2		TribalNoble-wait2.pcx		8			10		102			102				1		50		
+DYING1		TribalNoble-Die1.pcx		8			20		102			102				0		50		
+DYING2		TribalNoble-Die2.pcx		8			20		102			102				0		50		
+FIGHT1		TribalNoble-Fit1.pcx		8			20		102			102				0		50		
+
+SquadName 	Hastati	
+WALK		Hastati-wlk.pcx			8			20		108			108				0		50		
+CHARGING 	Hastati-run.pcx			8			20		108			108				0		50		
+ROUTING 	Hastati-route.pcx		8			16		108			108				0		50		
+WAIT		Hastati-stnd.pcx		8			1		108			108				0		50		
+WAIT1		Hastati-wait1.pcx		8			10		108			108				1		50		
+WAIT2		Hastati-wait2.pcx		8			10		108			108				1		50		
+DYING1		Hastati-Die1.pcx		8			20		108			108				0		50		
+DYING2		Hastati-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		Hastati-Fit1.pcx		8			20		108			108				0		50		
+SHOOT1		Hastati-Shot.pcx		8			20		108			108				1		50		10
+
+SquadName 	Triari	
+WALK		Triari-wlk.pcx			8			20		108			108				0		50		
+CHARGING 	Triari-run.pcx			8			20		108			108				0		50		
+ROUTING 	Triari-route.pcx		8			16		108			108				0		50		
+WAIT		Triari-stnd.pcx			8			1		108			108				0		50		
+WAIT1		Triari-wait1.pcx		8			10		108			108				1		50		
+WAIT2		Triari-wait2.pcx		8			10		108			108				1		50		
+DYING1		Triari-Die1.pcx			8			20		108			108				0		50		
+DYING2		Triari-Die2.pcx			8			20		108			108				0		50		
+FIGHT1		Triari-Fit1.pcx			8			20		108			108				0		50		
+
+SquadName 	WesternLeader																				
+WALK		Greek-Leader-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	Greek-Leader-run.pcx		8			15		108			108				0		50		
+ROUTING 	Greek-Leader-run.pcx		8			15		108			108				0		50		
+WAIT		Greek-Leader-stnd.pcx		8			1		108			108				0		50		
+WAIT1		Greek-Leader-wait1.pcx		8			10		108			108				1		50		
+WAIT2		Greek-Leader-wait2.pcx		8			10		108			108				1		50		
+DYING1		Greek-Leader-die1.pcx		8			20		108			108				0		50		
+FIGHT1		Greek-Leader-fit1.pcx		8			20		108			108				0		50		
+
+SquadName 	EasternLeader	
+WALK		Persian-Leader-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	Persian-Leader-run.pcx		8			15		108			108				0		50		
+ROUTING 	Persian-Leader-run.pcx		8			15		108			108				0		50		
+WAIT		Persian-Leader-stnd.pcx		8			1		108			108				0		50		
+WAIT1		Persian-Leader-wait1.pcx	8			10		108			108				1		50		
+WAIT2		Persian-Leader-wait2.pcx	8			10		108			108				1		50		
+DYING1		Persian-Leader-die1.pcx		8			20		108			108				0		50		
+FIGHT1		Persian-Leader-fit1.pcx		8			20		108			108				0		50	
+
+SquadName 	MassedArchers																		
+WALK		MassedArch-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	MassedArch-run.pcx		8			20		108			108				0		50		
+ROUTING 	MassedArch-route.pcx		8			16		108			108				0		50		
+WAIT		MassedArch-stnd.pcx		8			1		108			108				0		50		
+WAIT1		MassedArch-wait1.pcx		8			10		108			108				1		50		
+WAIT2		MassedArch-wait2.pcx		8			10		108			108				1		50		
+DYING1		MassedArch-Die1.pcx		8			20		108			108				0		50		
+DYING2		MassedArch-die2.pcx		8			20		108			108				0		50		
+FIGHT1		MassedArch-Fit1.pcx		8			20		108			108				0		50		
+SHOOT1		MassedArch-fire.pcx		8			20		108			108				1		50		14
+
+SquadName 	Thorakitai																			
+WALK		Thora-wlk.pcx			8			20		108			108				0		50		
+CHARGING 	Thora-run.pcx			8			20		108			108				0		50		
+ROUTING 	Thora-route.pcx			8			16		108			108				0		50		
+WAIT		Thora-stnd.pcx			8			1		108			108				0		50		
+WAIT1		Thora-wait1.pcx			8			10		108			108				1		50		
+WAIT2		Thora-wait2.pcx			8			10		108			108				1		50		
+DYING1		Thora-Die1.pcx			8			20		108			108				0		50		
+DYING2		Thora-die2.pcx			8			20		108			108				0		50		
+FIGHT1		Thora-Fit1.pcx			8			20		108			108				0		50		
+
+SquadName 	AchaianSpearmen																			
+WALK		ACH-SPR-wlk.pcx			8			20		108			108				0		50		
+CHARGING 	ACH-SPR-run.pcx			8			20		108			108				0		50		
+ROUTING 	ACH-SPR-route.pcx		8			16		108			108				0		50		
+WAIT		ACH-SPR-stnd.pcx		8			1		108			108				0		50		
+WAIT1		ACH-SPR-wait1.pcx		8			10		108			108				1		50		
+WAIT2		ACH-SPR-wait2.pcx		8			10		108			108				1		50		
+DYING1		ACH-SPR-Die1.pcx		8			20		108			108				0		50		
+DYING2		ACH-SPR-die2.pcx		8			20		108			108				0		50		
+FIGHT1		ACH-SPR-Fit1.pcx		8			20		108			108				0		50		
+																								
+SquadName 	DardanianSpearmen																					
+WALK		DARD-SPR-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	DARD-SPR-run.pcx		8			20		108			108				0		50		
+ROUTING 	DARD-SPR-route.pcx		8			16		108			108				0		50		
+WAIT		DARD-SPR-stnd.pcx		8			1		108			108				0		50		
+WAIT1		DARD-SPR-wait1.pcx		8			10		108			108				1		50		
+WAIT2		DARD-SPR-wait2.pcx		8			10		108			108				1		50		
+DYING1		DARD-SPR-Die1.pcx		8			20		108			108				0		50		
+DYING2		DARD-SPR-die2.pcx		8			20		108			108				0		50		
+FIGHT1		DARD-SPR-Fit1.pcx		8			20		108			108				0		50		
+																									
+SquadName 	PelegasianSpearmen																			
+WALK		PEL-SPR-wlk.pcx			8			20		108			108				0		50		
+CHARGING 	PEL-SPR-run.pcx			8			20		108			108				0		50		
+ROUTING 	PEL-SPR-route.pcx		8			16		108			108				0		50		
+WAIT		PEL-SPR-stnd.pcx		8			1		108			108				0		50		
+WAIT1		PEL-SPR-wait1.pcx		8			10		108			108				1		50		
+WAIT2		PEL-SPR-wait2.pcx		8			10		108			108				1		50		
+DYING1		PEL-SPR-die1.pcx		8			20		108			108				0		50		
+DYING2		PEL-SPR-die2.pcx		8			20		108			108				0		50		
+FIGHT1		PEL-SPR-fit1.pcx		8			20		108			108				0		50		
+																								
+SquadName 	Myrmidons																					
+WALK		Myrm-wlk.pcx			8			20		108			108				0		50		
+CHARGING 	Myrm-run.pcx			8			20		108			108				0		50		
+ROUTING 	Myrm-route.pcx			8			16		108			108				0		50		
+WAIT		Myrm-stnd.pcx			8			1		108			108				0		50		
+WAIT1		Myrm-wait1.pcx			8			10		108			108				1		50		
+WAIT2		Myrm-wait2.pcx			8			10		108			108				1		50		
+DYING1		Myrm-Die1.pcx			8			20		108			108				0		50		
+DYING2		Myrm-die2.pcx			8			20		108			108				0		50		
+FIGHT1		Myrm-Fit1.pcx			8			20		108			108				0		50		
+																								
+SquadName 	AchaianNobles																				
+WALK		ACH-NOB-wlk.pcx			8			20		108			108				0		50		
+CHARGING 	ACH-NOB-run.pcx			8			20		108			108				0		50		
+ROUTING 	ACH-NOB-route.pcx		8			16		108			108				0		50		
+WAIT		ACH-NOB-stnd.pcx		8			1		108			108				0		50		
+WAIT1		ACH-NOB-wait1.pcx		8			10		108			108				1		50		
+WAIT2		ACH-NOB-wait2.pcx		8			10		108			108				1		50		
+DYING1		ACH-NOB-die1.pcx		8			20		108			108				0		50		
+DYING2		ACH-NOB-die2.pcx		8			20		108			108				0		50		
+FIGHT1		ACH-NOB-fit1.pcx		8			20		108			108				0		50		
+
+SquadName 	DardanianNobles	
+WALK		DARD-NOB-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	DARD-NOB-run.pcx		8			20		108			108				0		50		
+ROUTING 	DARD-NOB-route.pcx		8			16		108			108				0		50		
+WAIT		DARD-NOB-stnd.pcx		8			1		108			108				0		50		
+WAIT1		DARD-NOB-wait1.pcx		8			10		108			108				1		50		
+WAIT2		DARD-NOB-wait2.pcx		8			10		108			108				1		50		
+DYING1		DARD-NOB-Die1.pcx		8			20		108			108				0		50		
+DYING2		DARD-NOB-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		DARD-NOB-Fit1.pcx		8			20		108			108				0		50		
+
+SquadName 	Levy	
+WALK		Levy-wlk.pcx			8			20		108			108				0		50		
+CHARGING 	Levy-run.pcx			8			20		108			108				0		50		
+ROUTING 	Levy-route.pcx			8			16		108			108				0		50		
+WAIT		Levy-stnd.pcx			8			1		108			108				0		50		
+WAIT1		Levy-wait1.pcx			8			10		108			108				1		50		
+WAIT2		Levy-wait2.pcx			8			10		108			108				1		50		
+DYING1		Levy-Die1.pcx			8			20		108			108				0		50		
+DYING2		Levy-Die2.pcx			8			20		108			108				0		50		
+FIGHT1		Levy-Fit1.pcx			8			20		108			108				0		50		
+FIGHT2		Levy-Fit2.pcx			8			20		108			108				0		50		
+
+SquadName 	InfantryHero																					
+WALK		ACHILLES-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	ACHILLES-run.pcx		8			20		120			120				0		50		
+ROUTING 	ACHILLES-route.pcx		8			16		120			120				0		50		
+WAIT		ACHILLES-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		ACHILLES-wait1.pcx		8			10		120			120				1		50		
+WAIT2		ACHILLES-wait2.pcx		8			10		120			120				1		50		
+DYING1		ACHILLES-Die1.pcx		8			20		120			120				0		50		
+DYING2		ACHILLES-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		ACHILLES-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		ACHILLES-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	Leonidas	
+WALK		Leonidas-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	Leonidas-run.pcx		8			20		120			120				0		50		
+ROUTING 	Leonidas-route.pcx		8			16		120			120				0		50		
+WAIT		Leonidas-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		Leonidas-wait1.pcx		8			10		120			120				1		50		
+WAIT2		Leonidas-wait2.pcx		8			10		120			120				1		50		
+DYING1		Leonidas-Die1.pcx		8			20		120			120				0		50		
+DYING2		Leonidas-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		Leonidas-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		Leonidas-Fit2.pcx		8			20		120			120				0		50		
+
+SquadName 	AchillesSonOfPeleus
+WALK		ACHILLES-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	ACHILLES-run.pcx		8			20		120			120				0		50		
+ROUTING 	ACHILLES-route.pcx		8			16		120			120				0		50		
+WAIT		ACHILLES-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		ACHILLES-wait1.pcx		8			10		120			120				1		50		
+WAIT2		ACHILLES-wait2.pcx		8			10		120			120				1		50		
+DYING1		ACHILLES-Die1.pcx		8			20		120			120				0		50		
+DYING2		ACHILLES-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		ACHILLES-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		ACHILLES-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	DiomedesSonOfTydeus
+WALK		ACHILLES-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	ACHILLES-run.pcx		8			20		120			120				0		50		
+ROUTING 	ACHILLES-route.pcx		8			16		120			120				0		50		
+WAIT		ACHILLES-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		ACHILLES-wait1.pcx		8			10		120			120				1		50		
+WAIT2		ACHILLES-wait2.pcx		8			10		120			120				1		50		
+DYING1		ACHILLES-Die1.pcx		8			20		120			120				0		50		
+DYING2		ACHILLES-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		ACHILLES-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		ACHILLES-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	AiasSonOfTelamon
+WALK		ACHILLES-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	ACHILLES-run.pcx		8			20		120			120				0		50		
+ROUTING 	ACHILLES-route.pcx		8			16		120			120				0		50		
+WAIT		ACHILLES-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		ACHILLES-wait1.pcx		8			10		120			120				1		50		
+WAIT2		ACHILLES-wait2.pcx		8			10		120			120				1		50		
+DYING1		ACHILLES-Die1.pcx		8			20		120			120				0		50		
+DYING2		ACHILLES-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		ACHILLES-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		ACHILLES-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	TeukrosSonOfTelamon
+WALK		ACHILLES-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	ACHILLES-run.pcx		8			20		120			120				0		50		
+ROUTING 	ACHILLES-route.pcx		8			16		120			120				0		50		
+WAIT		ACHILLES-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		ACHILLES-wait1.pcx		8			10		120			120				1		50		
+WAIT2		ACHILLES-wait2.pcx		8			10		120			120				1		50		
+DYING1		ACHILLES-Die1.pcx		8			20		120			120				0		50		
+DYING2		ACHILLES-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		ACHILLES-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		ACHILLES-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	OdysseusSonOfLaertes
+WALK		ACHILLES-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	ACHILLES-run.pcx		8			20		120			120				0		50		
+ROUTING 	ACHILLES-route.pcx		8			16		120			120				0		50		
+WAIT		ACHILLES-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		ACHILLES-wait1.pcx		8			10		120			120				1		50		
+WAIT2		ACHILLES-wait2.pcx		8			10		120			120				1		50		
+DYING1		ACHILLES-Die1.pcx		8			20		120			120				0		50		
+DYING2		ACHILLES-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		ACHILLES-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		ACHILLES-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	IdomeneusSonOfDeukalion
+WALK		ACHILLES-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	ACHILLES-run.pcx		8			20		120			120				0		50		
+ROUTING 	ACHILLES-route.pcx		8			16		120			120				0		50		
+WAIT		ACHILLES-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		ACHILLES-wait1.pcx		8			10		120			120				1		50		
+WAIT2		ACHILLES-wait2.pcx		8			10		120			120				1		50		
+DYING1		ACHILLES-Die1.pcx		8			20		120			120				0		50		
+DYING2		ACHILLES-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		ACHILLES-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		ACHILLES-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	AntilochosSonOfNestor
+WALK		ACHILLES-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	ACHILLES-run.pcx		8			20		120			120				0		50		
+ROUTING 	ACHILLES-route.pcx		8			16		120			120				0		50		
+WAIT		ACHILLES-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		ACHILLES-wait1.pcx		8			10		120			120				1		50		
+WAIT2		ACHILLES-wait2.pcx		8			10		120			120				1		50		
+DYING1		ACHILLES-Die1.pcx		8			20		120			120				0		50		
+DYING2		ACHILLES-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		ACHILLES-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		ACHILLES-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	EurypylosSonOfEuaimon
+WALK		ACHILLES-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	ACHILLES-run.pcx		8			20		120			120				0		50		
+ROUTING 	ACHILLES-route.pcx		8			16		120			120				0		50		
+WAIT		ACHILLES-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		ACHILLES-wait1.pcx		8			10		120			120				1		50		
+WAIT2		ACHILLES-wait2.pcx		8			10		120			120				1		50		
+DYING1		ACHILLES-Die1.pcx		8			20		120			120				0		50		
+DYING2		ACHILLES-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		ACHILLES-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		ACHILLES-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	AiasSonOfOileus
+WALK		ACHILLES-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	ACHILLES-run.pcx		8			20		120			120				0		50		
+ROUTING 	ACHILLES-route.pcx		8			16		120			120				0		50		
+WAIT		ACHILLES-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		ACHILLES-wait1.pcx		8			10		120			120				1		50		
+WAIT2		ACHILLES-wait2.pcx		8			10		120			120				1		50		
+DYING1		ACHILLES-Die1.pcx		8			20		120			120				0		50		
+DYING2		ACHILLES-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		ACHILLES-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		ACHILLES-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	HektorSonOfPriamos
+WALK		TROJHERO-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	TROJHERO-run.pcx		8			20		120			120				0		50		
+ROUTING 	TROJHERO-route.pcx		8			16		120			120				0		50		
+WAIT		TROJHERO-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		TROJHERO-wait1.pcx		8			10		120			120				1		50		
+WAIT2		TROJHERO-wait2.pcx		8			10		120			120				1		50		
+DYING1		TROJHERO-Die1.pcx		8			20		120			120				0		50		
+DYING2		TROJHERO-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		TROJHERO-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		TROJHERO-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	PolydamasSonOfPanthous
+WALK		TROJHERO-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	TROJHERO-run.pcx		8			20		120			120				0		50		
+ROUTING 	TROJHERO-route.pcx		8			16		120			120				0		50		
+WAIT		TROJHERO-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		TROJHERO-wait1.pcx		8			10		120			120				1		50		
+WAIT2		TROJHERO-wait2.pcx		8			10		120			120				1		50		
+DYING1		TROJHERO-Die1.pcx		8			20		120			120				0		50		
+DYING2		TROJHERO-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		TROJHERO-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		TROJHERO-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	SarpedonSonOfZeus
+WALK		TROJHERO-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	TROJHERO-run.pcx		8			20		120			120				0		50		
+ROUTING 	TROJHERO-route.pcx		8			16		120			120				0		50		
+WAIT		TROJHERO-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		TROJHERO-wait1.pcx		8			10		120			120				1		50		
+WAIT2		TROJHERO-wait2.pcx		8			10		120			120				1		50		
+DYING1		TROJHERO-Die1.pcx		8			20		120			120				0		50		
+DYING2		TROJHERO-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		TROJHERO-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		TROJHERO-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	AineiasSonOfAnchises
+WALK		TROJHERO-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	TROJHERO-run.pcx		8			20		120			120				0		50		
+ROUTING 	TROJHERO-route.pcx		8			16		120			120				0		50		
+WAIT		TROJHERO-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		TROJHERO-wait1.pcx		8			10		120			120				1		50		
+WAIT2		TROJHERO-wait2.pcx		8			10		120			120				1		50		
+DYING1		TROJHERO-Die1.pcx		8			20		120			120				0		50		
+DYING2		TROJHERO-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		TROJHERO-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		TROJHERO-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	DolonSonOfEumedes
+WALK		TROJHERO-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	TROJHERO-run.pcx		8			20		120			120				0		50		
+ROUTING 	TROJHERO-route.pcx		8			16		120			120				0		50		
+WAIT		TROJHERO-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		TROJHERO-wait1.pcx		8			10		120			120				1		50		
+WAIT2		TROJHERO-wait2.pcx		8			10		120			120				1		50		
+DYING1		TROJHERO-Die1.pcx		8			20		120			120				0		50		
+DYING2		TROJHERO-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		TROJHERO-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		TROJHERO-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	MercenaryHoplite																						
+WALK		LeathHop-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	LeathHop-run.pcx		8			20		108			108				0		50		
+ROUTING 	LeathHop-route.pcx		8			16		108			108				0		50		
+WAIT		LeathHop-stnd.pcx		8			1		108			108				0		50		
+WAIT1		LeathHop-wait1.pcx		8			10		108			108				1		50		
+WAIT2		LeathHop-wait2.pcx		8			10		108			108				1		50		
+DYING1		LeathHop-Die1.pcx		8			20		108			108				0		50		
+DYING2		LeathHop-die2.pcx		8			20		108			108				0		50		
+FIGHT1		LeathHop-Fit1.pcx		8			20		108			108				0		50		
+																									
+SquadName 	PelegasianNobles																			
+WALK		PEL-NOB-wlk.pcx			8			20		108			108				0		50		
+CHARGING 	PEL-NOB-run.pcx			8			20		108			108				0		50		
+ROUTING 	PEL-NOB-route.pcx		8			16		108			108				0		50		
+WAIT		PEL-NOB-stnd.pcx		8			1		108			108				0		50		
+WAIT1		PEL-NOB-wait1.pcx		8			10		108			108				1		50		
+WAIT2		PEL-NOB-wait2.pcx		8			10		108			108				1		50		
+DYING1		PEL-NOB-die1.pcx		8			20		108			108				0		50		
+DYING2		PEL-NOB-die2.pcx		8			20		108			108				0		50		
+FIGHT1		PEL-NOB-fit1.pcx		8			20		108			108				0		50		
+
+SquadName 	ThebanHoplite																						
+WALK		LeathHop-wlk.pcx		8			20		108			108				0		50		
+CHARGING 	LeathHop-run.pcx		8			20		108			108				0		50		
+ROUTING 	LeathHop-route.pcx		8			16		108			108				0		50		
+WAIT		LeathHop-stnd.pcx		8			1		108			108				0		50		
+WAIT1		LeathHop-wait1.pcx		8			10		108			108				1		50		
+WAIT2		LeathHop-wait2.pcx		8			10		108			108				1		50		
+DYING1		LeathHop-Die1.pcx		8			20		108			108				0		50		
+DYING2		LeathHop-die2.pcx		8			20		108			108				0		50		
+FIGHT1		LeathHop-Fit1.pcx		8			20		108			108				0		50		
+																									
+SquadName 	ThespianHoplite																					
+WALK		BrnzHop-wlk.pcx			8			20		108			108				0		50		
+CHARGING 	BrnzHop-run.pcx			8			20		108			108				0		50		
+ROUTING 	BrnzHop-route.pcx		8			16		108			108				0		50		
+WAIT		BrnzHop-Stnd.pcx		8			1		108			108				0		50		
+WAIT1		BrnzHop-wait1.pcx		8			10		108			108				1		50		
+WAIT2		BrnzHop-wait2.pcx		8			10		108			108				1		50		
+DYING1		BrnzHop-Die1.pcx		8			20		108			108				0		50		
+DYING2		BrnzHop-Die2.pcx		8			20		108			108				0		50		
+FIGHT1		BrnzHop-Fit1.pcx		8			20		108			108				0		50		
+FIGHT2		BrnzHop-Fit2.pcx		8			20		108			108				0		50		
+																							
+SquadName 	Demophilus
+WALK		ACHILLES-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	ACHILLES-run.pcx		8			20		120			120				0		50		
+ROUTING 	ACHILLES-route.pcx		8			16		120			120				0		50		
+WAIT		ACHILLES-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		ACHILLES-wait1.pcx		8			10		120			120				1		50		
+WAIT2		ACHILLES-wait2.pcx		8			10		120			120				1		50		
+DYING1		ACHILLES-Die1.pcx		8			20		120			120				0		50		
+DYING2		ACHILLES-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		ACHILLES-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		ACHILLES-Fit2.pcx		8			20		120			120				0		50		
+
+SquadName 	Aristagoras
+WALK		ACHILLES-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	ACHILLES-run.pcx		8			20		120			120				0		50		
+ROUTING 	ACHILLES-route.pcx		8			16		120			120				0		50		
+WAIT		ACHILLES-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		ACHILLES-wait1.pcx		8			10		120			120				1		50		
+WAIT2		ACHILLES-wait2.pcx		8			10		120			120				1		50		
+DYING1		ACHILLES-Die1.pcx		8			20		120			120				0		50		
+DYING2		ACHILLES-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		ACHILLES-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		ACHILLES-Fit2.pcx		8			20		120			120				0		50		
+
+SquadName 	Patroclus
+WALK		ACHILLES-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	ACHILLES-run.pcx		8			20		120			120				0		50		
+ROUTING 	ACHILLES-route.pcx		8			16		120			120				0		50		
+WAIT		ACHILLES-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		ACHILLES-wait1.pcx		8			10		120			120				1		50		
+WAIT2		ACHILLES-wait2.pcx		8			10		120			120				1		50		
+DYING1		ACHILLES-Die1.pcx		8			20		120			120				0		50		
+DYING2		ACHILLES-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		ACHILLES-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		ACHILLES-Fit2.pcx		8			20		120			120				0		50		
+
+SquadName 	Paris
+WALK		TROJHERO-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	TROJHERO-run.pcx		8			20		120			120				0		50		
+ROUTING 	TROJHERO-route.pcx		8			16		120			120				0		50		
+WAIT		TROJHERO-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		TROJHERO-wait1.pcx		8			10		120			120				1		50		
+WAIT2		TROJHERO-wait2.pcx		8			10		120			120				1		50		
+DYING1		TROJHERO-Die1.pcx		8			20		120			120				0		50		
+DYING2		TROJHERO-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		TROJHERO-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		TROJHERO-Fit2.pcx		8			20		120			120				0		50		
+																							
+SquadName 	InfantryHero2
+WALK		TROJHERO-wlk.pcx		8			20		120			120				0		50		
+CHARGING 	TROJHERO-run.pcx		8			20		120			120				0		50		
+ROUTING 	TROJHERO-route.pcx		8			16		120			120				0		50		
+WAIT		TROJHERO-Stnd.pcx		8			1		120			120				0		50		
+WAIT1		TROJHERO-wait1.pcx		8			10		120			120				1		50		
+WAIT2		TROJHERO-wait2.pcx		8			10		120			120				1		50		
+DYING1		TROJHERO-Die1.pcx		8			20		120			120				0		50		
+DYING2		TROJHERO-Die2.pcx		8			20		120			120				0		50		
+FIGHT1		TROJHERO-Fit1.pcx		8			20		120			120				0		50		
+FIGHT2		TROJHERO-Fit2.pcx		8			20		120			120				0		50
